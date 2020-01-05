@@ -1,0 +1,9 @@
+* novas classes
+* * flashligt   : cega outros jogadores e troca a posição da mira
+* * medico      : consegue recuperar vida dos outros jogadores (why?)
+* * scanner     : pode ver se o jogador é hunter ou um demon (caso o demon seja o scanner, ele pode escolher qual vai ser o resultado)
+
+* super demons
+* * invisibilidade      : pode ficar invisivel, porém ao voltar faz um barulho alto, possúi um cooldown imenso
+* * forte               : precisa levar mais dano para morrer, porém ao pegar a faca ele só torna visivel como o demonio para sempre
+* * fantasma            : se for visto por muito tempo começa a ficar visivelmente estranho

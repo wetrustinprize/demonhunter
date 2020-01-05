@@ -1,0 +1,6 @@
+util.AddNetworkString("RoundInfo")
+util.AddNetworkString("ClockTimer")
+util.AddNetworkString("YouAre")
+util.AddNetworkString("SprintValue")
+util.AddNetworkString("MidnigthEvent")
+util.AddNetworkString("Chat")

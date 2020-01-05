@@ -1,0 +1,28 @@
+"demonhunters"
+{
+    "base" "base"
+    "title" "Demon Hunters"
+    "maps" "^dh_"
+    "menusystem" "1"
+
+    "settings"
+    {
+        1
+        {
+            "name" "dh_midnighttimer"
+            "text" "Midnigth Timer"
+            "help" "Time to start the midnight"
+            "type" "Numeric"
+            "default" "60"
+        }
+
+        2
+        {
+            "name" "dh_ghostprops"
+            "text" "Ghost Props"
+            "help" "Can ghost people move props?"
+            "type" "CheckBox"
+        }
+
+    }
+}
